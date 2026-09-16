@@ -1,0 +1,9 @@
+Rows,Columns,Numeric Columns,Categorical Columns,Missing Values,Duplicate Rows,Memory (KB),Dataset,Quality Score,Health,Detected Date,Detected Quantity,Detected Amount,Detected Product,Detected Customer,Detected Supplier
+100,5,3,2,0,0,14.84,PurchaseData,100.0,Excellent,Date of Purchase,Quantity Purchased kg,Total Cost,Material ID Item Name,,
+315,6,3,3,0,0,67.03,Sales_Invoice_6months,100.0,Excellent,Date,Quantity Sold,Total Amount (₹),Product,Customer Name,
+464,5,3,2,0,0,68.38,ProductionData_6Months,100.0,Excellent,Date,Good Units Produced,,Item Name,,
+3,4,2,2,0,0,0.58,Production_Capacity,100.0,Excellent,,,,Product,,
+181,4,3,1,0,0,14.8,Workers_AttendanceLog,100.0,Excellent,Date,,,,,
+18,5,1,4,0,0,4.6,Machine_BreakdownLog,100.0,Excellent,Date,,,Production Affected,,
+905,6,4,2,0,0,137.29,RawMaterial_Inventory,100.0,Excellent,Date,Purchased,,Raw Material,,
+543,6,4,2,0,0,84.27,FinishedGoods_Inventory,100.0,Excellent,Date,Sold,,Product,,
