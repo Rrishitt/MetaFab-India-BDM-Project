@@ -1,0 +1,101 @@
+**Interview Transcript**
+
+**Interviewer (Rishit):**
+Good morning, Sir. To begin with, could you please introduce yourself and tell us a little about MetaFab India?
+
+**Owner:**
+Good morning.
+
+My name is Vaibhav, and I am the Owner of MetaFab India. Our manufacturing facility is located in Greater Noida, and we have been operating in the manufacturing industry for several years. We primarily manufacture precision metal components for industrial customers. In manufacturing, production planning is extremely important because every order requires effective coordination of raw materials, machines, and manpower.
+
+---
+
+**Interviewer (Rishit):**
+Sir, during my visit to your factory, I observed that production was running continuously and that different processes were being carried out across various sections. In such an environment, how important is production planning?
+
+**Owner:**
+Manufacturing is not just about operating machines.
+
+The first step is determining when each customer's order must be delivered. Based on that schedule, raw materials are procured, followed by machine scheduling. If even one part of the planning process is disrupted, it affects the entire production chain.
+
+---
+
+**Interviewer (Rishit):**
+So, if procurement is delayed or production does not progress at the expected pace, it can directly impact delivery timelines as well?
+
+**Owner:**
+Absolutely.
+
+And it affects more than just deliveries. Inventory levels may increase, machines may remain idle, workers may have to wait, or finished goods may be ready while dispatch is still pending. All of these situations ultimately increase business costs.
+
+---
+
+**Interviewer (Rishit):**
+Are these challenges occasional, or are they recurring issues commonly faced in the manufacturing industry?
+
+**Owner:**
+These are regular challenges faced by almost every manufacturing unit.
+
+Demand is never constant, customer requirements continue to change, and production output also varies from day to day. Therefore, planning must be monitored continuously.
+
+---
+
+**Interviewer (Rishit):**
+Sir, I observed that a significant amount of operational data in the factory—including purchase records, production records, and defect records—is maintained manually. Has this data ever been analyzed in detail?
+
+**Owner:**
+To be honest, no.
+
+We certainly maintain these records because they are essential for running the business. However, they have never been studied from an analytical perspective. Most of our decisions have traditionally been based on experience and practical understanding.
+
+---
+
+**Interviewer (Rishit):**
+Exactly, Sir.
+
+That is what led me to believe that systematically analyzing historical operational data could help identify hidden trends and planning gaps. With this objective in mind, I chose this Business Data Management (BDM) project.
+
+**Owner:**
+Yes.
+
+That was also the reason I agreed to the project and granted permission. If our existing records can provide better planning insights, it will naturally benefit the business.
+
+---
+
+**Interviewer (Rishit):**
+Sir, I have collected the purchase records, production records, and defect logs from you. Are these actual operational records used by the factory?
+
+**Owner:**
+Yes, absolutely.
+
+These are our actual business records. For academic purposes, only a limited portion of the operational data has been shared. Commercially sensitive information has been kept confidential.
+
+---
+
+**Interviewer (Rishit):**
+Sir, what are your personal expectations from this project?
+
+**Owner:**
+My expectations are quite simple.
+
+I am not looking for any complicated software. If the data analysis helps me understand where improvements can be made in production planning, at which stage bottlenecks are occurring, how material utilization can be improved, and how production can be planned more efficiently, then I would consider your project successful.
+
+---
+
+**Interviewer (Rishit):**
+Sir, one final question.
+
+If you had to choose only one business problem that should be addressed first, what would it be?
+
+**Owner:**
+I would say production planning.
+
+If planning is effective, procurement improves, inventory remains under control, deliveries become more reliable, and unnecessary costs are reduced. In many ways, production planning is the backbone of the entire manufacturing system.
+
+---
+
+**Interviewer (Rishit):**
+Thank you very much for your valuable time and for supporting this project. I hope that the analysis will generate practical recommendations that will be useful for MetaFab India.
+
+**Owner:**
+Thank you.
